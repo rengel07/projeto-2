@@ -33,6 +33,7 @@ body {
     background-color: transparent;
     border: 2px solid var(--branco-principal)
 }
-.container__caixa {
-    margin: 0 6em;
+.container__imagem {
+    margin: 1em 0 2em 0;
 }
+
